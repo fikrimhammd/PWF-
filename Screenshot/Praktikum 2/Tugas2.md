@@ -1,7 +1,7 @@
 Tugas 13
 - **Nama:** Muhammad Dzulfikri
 - **NIM:** 20230140159
-- **Kelas:** D
+
 
 ---
 
