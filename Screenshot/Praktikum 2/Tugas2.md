@@ -6,8 +6,8 @@ Tugas 13
 ---
 
 # Dokumentasi
-| Keterangan   | Screenshot                                |
-| :---         |     :---:                                 |
-| About        | ![About](./screenshot/Tugas13(1).jpeg)    |
-| Register     | ![Register](./screenshot/Tugas13(2).jpeg) |
-| Login        | ![Login](./screenshot/Tugas13(2).jpeg)    |
+| Keterangan   | Screenshot                  |
+| :---         |     :---:                   |
+| About        | ![About](./About.png)       |
+| Register     | ![Register](./Register.png) |
+| Login        | ![Login](./Login.png)       |
